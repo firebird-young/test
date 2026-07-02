@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "format": "axhub-published-source",
+  "sourceRoot": "source",
+  "entry": "index.tsx",
+  "files": [
+    {
+      "path": "assets/logo.jpeg",
+      "kind": "source"
+    },
+    {
+      "path": "components/PhoneFrame.tsx",
+      "kind": "source"
+    },
+    {
+      "path": "index.tsx",
+      "kind": "entry"
+    },
+    {
+      "path": "pages/HomePage.tsx",
+      "kind": "source"
+    },
+    {
+      "path": "pages/LoginPage.tsx",
+      "kind": "source"
+    },
+    {
+      "path": "style.css",
+      "kind": "source"
+    }
+  ]
+}

@@ -32,8 +32,8 @@
       "endpoint": ""
     },
     "githubPages": {
-      "repository": "",
-      "branch": "gh-pages",
+      "repository": "firebird-young/test",
+      "branch": "main",
       "sourceDirectory": "/"
     },
     "publishSettings": {
