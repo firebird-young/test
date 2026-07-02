@@ -1,0 +1,15 @@
+schema_version: 1
+module_path: configuration_system
+title: AxHub Make 配置系统与运行时元数据管理
+scope: []
+source_files:
+    - .axhub/make/axhub.config.json
+    - .axhub/make/entries.json
+    - .axhub/make/project.json
+    - vite.config.ts
+    - scripts/utils/serverInfo.mjs
+    - vite-plugins/utils/makeConstants.ts
+    - scripts/scan-entries.js
+    - scripts/sync-project-metadata.mjs
+depends_on: []
+related_to: []

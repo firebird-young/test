@@ -1,0 +1,12 @@
+schema_version: 1
+module_path: dependency_management
+title: pnpm 依赖管理与 Monorepo 供应商同步机制
+scope: []
+source_files:
+    - package.json
+    - pnpm-lock.yaml
+    - scripts/sync-vendor-if-present.mjs
+    - scripts/utils/command-runtime.mjs
+    - skills-lock.json
+depends_on: []
+related_to: []

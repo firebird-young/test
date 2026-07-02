@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: vite_plugins
+title: AxHub Make 开发服务器增强插件集
+scope:
+    - vite-plugins/
+source_files: []
+depends_on: []
+related_to: []

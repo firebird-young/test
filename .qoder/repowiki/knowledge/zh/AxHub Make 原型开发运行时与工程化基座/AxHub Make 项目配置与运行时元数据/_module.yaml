@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: axhub_config
+title: AxHub Make 项目配置与运行时元数据
+scope:
+    - .axhub/
+source_files: []
+depends_on: []
+related_to: []

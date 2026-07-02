@@ -1,0 +1,13 @@
+schema_version: 1
+module_path: frontend_style
+title: AxHub Make 前端样式系统与主题工程化规范
+scope: []
+source_files:
+    - rules/theme-guide.md
+    - src/themes/linear/style.css
+    - src/themes/linear/theme.json
+    - src/common/DesignMdBatchShowcase/base.css
+    - src/common/ThemeShell/styles.ts
+    - vite.config.ts
+depends_on: []
+related_to: []
